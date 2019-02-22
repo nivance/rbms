@@ -3,11 +3,11 @@
 **RMBDS**的灵感来自于[ARTS](https://github.com/byte-stream/ARTS)。ARTS是左耳朵耗子（陈皓）提出的一个观点：每周通过这四个指标来训练自己。我将这个观点发扬光大，应用到日常的交易练习中来，于是有了**RMBDS**。
 
 ### 什么是RMBDS？
-* Review：点评一篇关于投资的文章（最好是英文文章）
+* Review：每周点评一篇关于投资的文章（最好是英文文章）
 * Morphological analysis：每天一个形态分析
-* Behavioral Finance：一个行为金融学的概念
+* Behavioral Finance：每周一个行为金融学的概念
 * Dictum：每天读一句投资格言
-* Share：分享一个观点或思考
+* Share：每周分享一个观点或思考
 
 这个应该挺浅显易懂，不需要做过多解释。
 
